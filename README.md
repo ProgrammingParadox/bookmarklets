@@ -10,6 +10,6 @@ Link:
 
 Note that if using a YouTube link, you'll need to edit it a little. https://www.youtube.com/watch?v=B3r4EgwLqMM turns into https://www.youtube.com/embed/B3r4EgwLqMM
 
-### Things that don't work
+#### Things that don't work
  - The minus button only hides the content. Working on making it shrink the height of the actual thing, too.
  - Sometimes it might be a little hard to resize the canvas :P
